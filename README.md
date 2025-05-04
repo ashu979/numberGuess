@@ -5,7 +5,7 @@ Choose your difficulty level and start guessing!
 
 -> Clone this repo using : https://github.com/ashu979/numberGuess.git
 
-Project page url : https://github.com/ashu979/numberGuess/tree/master
+Project page url : [https://github.com/ashu979/numberGuess/tree/master](https://roadmap.sh/projects/number-guessing-game)
 
 🕹️ How to Play
 When the game starts, a welcome message and rules are displayed.
