@@ -3,9 +3,9 @@ A fun command-line number guessing game built in Python! Test your luck and logi
 Choose your difficulty level and start guessing!
 
 
--> Clone this repo using : https://github.com/ashu979/numberGuess.git
+-> Clone this repo using: https://github.com/ashu979/numberGuess.git
 
-Project page url :https://roadmap.sh/projects/number-guessing-game
+Project page url: https://roadmap.sh/projects/number-guessing-game
 
 🕹️ How to Play
 When the game starts, a welcome message and rules are displayed.
