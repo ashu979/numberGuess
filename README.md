@@ -5,6 +5,8 @@ Choose your difficulty level and start guessing!
 
 -> Clone this repo using : https://github.com/ashu979/numberGuess.git
 
+Project page url : https://github.com/ashu979/numberGuess/tree/master
+
 🕹️ How to Play
 When the game starts, a welcome message and rules are displayed.
 The computer randomly picks a number between 1 and 100.
