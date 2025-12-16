@@ -3,7 +3,7 @@ A fun command-line number guessing game built in Python! Test your luck and logi
 Choose your difficulty level and start guessing!
 
 
--> Clone this repo using: https://github.com/ashu979/numberGuess.git
+-> Clone this repo using: https://github.com/ashu979/numberGuess/tree/master
 
 Project page url: https://roadmap.sh/projects/number-guessing-game
 
